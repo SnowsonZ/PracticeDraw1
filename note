@@ -1,0 +1,8 @@
+Canvas
+	drawXXX
+	范围裁剪，几何变换
+	绘制顺序
+Paint
+
+
+1.1 Canvas drawXXX  Path addXXX xxxTo, 辅助绘制，填充规则
